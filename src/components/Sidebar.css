@@ -52,3 +52,9 @@ nav {
   height: 150px;
   cursor: pointer;
 }
+
+@media(max-width: 400px) {
+  nav {
+    width: 60%;
+  }
+}
