@@ -55,6 +55,12 @@ nav {
 
 @media(max-width: 400px) {
   nav {
-    width: 60%;
+    width: 65%;
+  }
+  .nav-closed {
+    width: 68%;
+  } 
+  .nav-images {
+    justify-content: stretch;
   }
 }
