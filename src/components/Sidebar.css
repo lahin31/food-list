@@ -62,13 +62,17 @@ nav {
   } 
   .nav-images {
     justify-content: stretch;
+    margin-bottom: -350px;
   }
   .nav-open {
     width: 65%;
     overflow-y: auto;
-    max-height: 565px;
+    max-height: 570px;
   }
   .nav-images div img {
     width: 100%;
+  }
+  header {
+    overflow: hidden;
   }
 }
