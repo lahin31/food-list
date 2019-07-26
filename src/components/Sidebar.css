@@ -65,6 +65,8 @@ nav {
   }
   .nav-open {
     width: 65%;
+    overflow-y: auto;
+    max-height: 565px;
   }
   .nav-images div img {
     width: 100%;
