@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`makes a snapshot and tests 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <header>
+      <nav>
+        <div
+          class="nav-closed"
+        >
+          <h3
+            data-testid="title"
+          >
+            Food App
+          </h3>
+          <ul
+            class="nav-links"
+          >
+            <li
+              class="nav-button"
+            >
+              Foods
+            </li>
+          </ul>
+        </div>
+        <div
+          class="nav-open"
+        >
+          <div
+            class="nav-images"
+          />
+        </div>
+      </nav>
+    </header>
+    <img
+      alt="Wallpaper"
+      class="cover_pic"
+      data-testid="wallpaper"
+      src="/images/berries-pizza.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;
