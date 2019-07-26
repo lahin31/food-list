@@ -63,4 +63,10 @@ nav {
   .nav-images {
     justify-content: stretch;
   }
+  .nav-open {
+    width: 65%;
+  }
+  .nav-images div img {
+    width: 100%;
+  }
 }
